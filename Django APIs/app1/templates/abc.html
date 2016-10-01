@@ -1,0 +1,14 @@
+<html>
+<head><title> </title>
+</head>
+<body>
+<form method="POST" >
+{% csrf_token %}
+name<input type = "text" name="myname">
+<input type="button" value="submit">
+</form>
+{% if res %}
+<input type="text" value={{res}}>
+{% endif %}
+</body>
+</html>
