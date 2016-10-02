@@ -1,0 +1,301 @@
+rating,genres1,gen_num,hit,userrev
+9.3,"['Crime', 'Drama']","[5, 7]",1,1
+9.2,"['Crime', 'Drama']","[5, 7]",1,1
+9,"['Crime', 'Drama']","[5, 7]",1,1
+9,"['Action', 'Crime', 'Drama', 'Thriller']","[0, 5, 7, 19]",1,1
+8.9,"['Crime', 'Drama']","[5, 7]",1,1
+8.9,"['Biography', 'Drama', 'History']","[3, 7, 11]",1,1
+8.9,"['Crime', 'Drama']","[5, 7]",1,0
+8.9,"['Action', 'Adventure', 'Drama', 'Fantasy']","[0, 1, 7, 9]",1,0
+8.9,['Western'],[21],1,1
+8.8,['Drama'],[7],1,1
+8.8,"['Action', 'Adventure', 'Drama', 'Fantasy']","[0, 1, 7, 9]",1,0
+8.8,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']","[0, 1, 9, 17]",1,0
+8.8,"['Comedy', 'Drama']","[4, 7]",1,1
+8.8,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']","[0, 1, 17, 19]",1,1
+8.7,"['Action', 'Adventure', 'Drama', 'Fantasy']","[0, 1, 7, 9]",1,1
+8.7,['Drama'],[7],1,1
+8.7,"['Biography', 'Crime', 'Drama']","[3, 5, 7]",1,1
+8.7,"['Action', 'Sci-Fi']","[0, 17]",1,1
+8.7,"['Action', 'Adventure', 'Drama']","[0, 1, 7]",1,0
+8.7,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']","[0, 1, 9, 17]",1,1
+8.7,"['Crime', 'Drama']","[5, 7]",1,1
+8.6,"['Crime', 'Drama', 'Mystery', 'Thriller']","[5, 7, 15, 19]",1,1
+8.6,"['Crime', 'Drama', 'Thriller']","[5, 7, 19]",1,1
+8.6,"['Drama', 'Family', 'Fantasy', 'Romance']","[7, 8, 9, 16]",1,1
+8.6,"['Crime', 'Drama', 'Mystery', 'Thriller']","[5, 7, 15, 19]",1,1
+8.6,"['Comedy', 'Drama', 'War']","[4, 7, 20]",1,1
+8.6,"['Crime', 'Drama', 'Thriller']","[5, 7, 19]",1,1
+8.6,"['Animation', 'Adventure', 'Family', 'Fantasy']","[2, 1, 8, 9]",1,1
+8.6,['Western'],[21],1,0
+8.6,"['Action', 'Drama', 'War']","[0, 7, 20]",1,0
+8.6,"['Crime', 'Drama']","[5, 7]",1,1
+8.6,"['Drama', 'Romance', 'War']","[7, 16, 20]",1,1
+8.6,"['Adventure', 'Drama', 'Sci-Fi']","[1, 7, 17]",1,1
+8.5,"['Horror', 'Mystery', 'Thriller']","[12, 15, 19]",1,0
+8.6,"['Comedy', 'Drama', 'Romance']","[4, 7, 16]",1,0
+8.5,"['Action', 'Adventure']","[0, 1]",1,0
+8.5,"['Crime', 'Drama', 'Fantasy', 'Mystery']","[5, 7, 9, 15]",1,1
+8.6,"['Comedy', 'Drama', 'Family']","[4, 7, 8]",1,1
+8.6,"['Biography', 'Comedy', 'Drama']","[3, 4, 7]",1,0
+8.5,"['Mystery', 'Thriller']","[15, 19]",1,1
+8.5,"['Action', 'Sci-Fi', 'Thriller']","[0, 17, 19]",1,1
+8.5,"['Crime', 'Drama', 'Thriller']","[5, 7, 19]",1,1
+8.5,"['Biography', 'Drama', 'War']","[3, 7, 20]",1,1
+8.5,"['Adventure', 'Comedy', 'Sci-Fi']","[1, 4, 17]",1,1
+8.5,"['Drama', 'Music']","[7, 13]",1,1
+8.5,"['Action', 'Adventure', 'Drama']","[0, 1, 7]",1,1
+8.5,"['Mystery', 'Thriller']","[15, 19]",1,0
+8.5,"['Drama', 'War']","[7, 20]",1,1
+8.5,"['Drama', 'Mystery', 'Sci-Fi', 'Thriller']","[7, 15, 17, 19]",1,1
+8.5,"['Animation', 'Adventure', 'Drama', 'Family', 'Musical']","[2, 1, 7, 8, 14]",1,1
+8.5,['Comedy'],[4],1,1
+8.5,"['Drama', 'Film-Noir', 'Romance']","[7, 10, 16]",1,1
+8.5,"['Horror', 'Sci-Fi']","[12, 17]",1,1
+8.5,"['Comedy', 'Drama', 'War']","[4, 7, 20]",1,1
+8.5,"['Drama', 'Thriller']","[7, 19]",1,1
+8.5,"['Drama', 'Romance']","[7, 16]",1,1
+8.5,"['Drama', 'War']","[7, 20]",1,1
+8.5,"['Drama', 'Western']","[7, 21]",1,0
+8.4,"['Drama', 'Horror']","[7, 12]",1,1
+8.5,"['Animation', 'Drama', 'War']","[2, 7, 20]",1,0
+7.6,"['Comedy', 'Drama', 'Sport']","[4, 7, 18]",1,0
+8.5,"['Action', 'Thriller']","[0, 19]",1,0
+8.4,"['Drama', 'Romance']","[7, 16]",1,0
+8.4,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']","[0, 1, 17, 19]",1,1
+8.4,"['Animation', 'Adventure', 'Fantasy']","[2, 1, 9]",1,1
+8.4,"['Drama', 'Mystery', 'Thriller']","[7, 15, 19]",1,1
+8.4,"['Crime', 'Drama']","[5, 7]",1,1
+8.4,"['Drama', 'Mystery']","[7, 15]",1,0
+8.4,"['Adventure', 'Drama', 'Thriller', 'War']","[1, 7, 19, 20]",1,1
+8.4,"['Action', 'Adventure', 'Crime', 'Mystery', 'Thriller']","[0, 1, 5, 15, 19]",1,1
+8.4,"['Crime', 'Drama', 'Mystery', 'Thriller']","[5, 7, 15, 19]",1,1
+8.4,"['Mystery', 'Romance', 'Thriller']","[15, 16, 19]",1,0
+8.4,"['Action', 'Adventure', 'Fantasy', 'Romance', 'Sci-Fi']","[0, 1, 9, 16, 17]",1,0
+8.4,"['Crime', 'Drama', 'Mystery', 'Thriller']","[5, 7, 15, 19]",1,0
+8.4,"['Crime', 'Drama', 'Thriller']","[5, 7, 19]",1,1
+8.4,"['Biography', 'Drama', 'History', 'War']","[3, 7, 11, 20]",1,0
+8.4,"['Comedy', 'Romance']","[4, 16]",1,1
+8.4,['Drama'],[7],1,0
+8.3,"['Crime', 'Drama', 'Sci-Fi']","[5, 7, 17]",1,0
+8.3,"['Crime', 'Drama']","[5, 7]",1,0
+8.4,"['Crime', 'Drama', 'Film-Noir', 'Mystery', 'Romance', 'Thriller']","[5, 7, 10, 15, 16, 19]",1,1
+8.4,"['Adventure', 'Biography', 'Drama', 'History', 'War']","[1, 3, 7, 11, 20]",1,1
+8.3,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']","[2, 1, 4, 8, 9]",1,1
+8.3,"['Crime', 'Drama']","[5, 7]",1,0
+8.3,"['Drama', 'Fantasy', 'Romance', 'Sci-Fi']","[7, 9, 16, 17]",1,1
+8.3,"['Biography', 'Drama', 'History', 'Music']","[3, 7, 11, 13]",1,1
+8.3,"['Drama', 'War']","[7, 20]",1,0
+8.3,"['Comedy', 'Crime', 'Drama']","[4, 5, 7]",1,0
+8.3,"['Adventure', 'Mystery', 'Sci-Fi']","[1, 15, 17]",1,1
+8.3,['Drama'],[7],1,0
+8.3,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']","[2, 1, 4, 8, 9]",1,1
+8.3,"['Comedy', 'Musical', 'Romance']","[4, 14, 16]",1,0
+8.3,"['Comedy', 'Crime']","[4, 5]",1,1
+8.3,"['Adventure', 'Drama', 'War']","[1, 7, 20]",1,1
+6.1,"['Comedy', 'Family', 'Fantasy']","[4, 8, 9]",1,1
+8.3,"['Adventure', 'Comedy', 'Fantasy']","[1, 4, 9]",1,1
+8.3,"['Crime', 'Drama', 'Mystery', 'Thriller']","[5, 7, 15, 19]",1,1
+8.3,['Western'],[21],1,1
+8.3,"['Crime', 'Drama', 'Mystery']","[5, 7, 15]",1,0
+8.3,"['Comedy', 'Drama', 'Romance']","[4, 7, 16]",1,1
+8.3,"['Crime', 'Drama']","[5, 7]",1,1
+8.4,"['Comedy', 'Drama']","[4, 7]",1,0
+8.3,"['Action', 'Adventure', 'Fantasy']","[0, 1, 9]",1,1
+8.4,"['Drama', 'Mystery']","[7, 15]",1,1
+8.3,"['Drama', 'Sci-Fi']","[7, 17]",1,1
+8.3,['Drama'],[7],1,1
+8.3,['Drama'],[7],1,1
+8.3,"['Action', 'Drama', 'Thriller']","[0, 7, 19]",1,1
+8.3,['Drama'],[7],1,1
+8.3,"['Action', 'Adventure']","[0, 1]",1,1
+8.3,"['Adventure', 'Drama', 'Western']","[1, 7, 21]",1,0
+8.3,"['Comedy', 'Music', 'Romance']","[4, 13, 16]",1,0
+8.3,"['Animation', 'Adventure', 'Comedy', 'Family']","[2, 1, 4, 8]",1,1
+8.3,"['Drama', 'Western']","[7, 21]",1,0
+8.3,"['Film-Noir', 'Mystery', 'Thriller']","[10, 15, 19]",1,1
+8.3,"['Biography', 'Drama', 'History', 'War']","[3, 7, 11, 20]",1,1
+8.3,"['Biography', 'Drama', 'Sport']","[3, 7, 18]",1,0
+8.4,"['Drama', 'Family']","[7, 8]",1,1
+8.2,"['Action', 'Thriller']","[0, 19]",1,1
+8.3,"['Adventure', 'Drama', 'History', 'Thriller', 'War']","[1, 7, 11, 19, 20]",1,1
+8.2,"['Drama', 'Mystery', 'Thriller']","[7, 15, 19]",1,1
+8.3,"['Animation', 'Adventure', 'Comedy', 'Drama', 'Family', 'Fantasy']","[2, 1, 4, 7, 8, 9]",1,0
+8.2,"['Action', 'Crime', 'Drama', 'Thriller']","[0, 5, 7, 19]",1,1
+8.2,"['Drama', 'Fantasy', 'War']","[7, 9, 20]",1,1
+8.2,['Drama'],[7],1,1
+8.2,"['Crime', 'Drama', 'Romance', 'Thriller']","[5, 7, 16, 19]",1,1
+8.2,"['Animation', 'Family', 'Fantasy']","[2, 8, 9]",1,0
+8.3,['Drama'],[7],1,0
+8.3,"['Action', 'Drama']","[0, 7]",1,1
+8.2,"['Adventure', 'Comedy', 'Drama', 'Family']","[1, 4, 7, 8]",1,0
+8.2,"['Comedy', 'Drama']","[4, 7]",1,0
+8.2,"['Adventure', 'Drama', 'War']","[1, 7, 20]",1,1
+8.2,"['Drama', 'Mystery', 'Thriller']","[7, 15, 19]",1,1
+8.2,"['Sci-Fi', 'Thriller']","[17, 19]",1,0
+8.3,"['Biography', 'Drama', 'History']","[3, 7, 11]",1,0
+8.2,"['Drama', 'Fantasy']","[7, 9]",1,0
+8.2,"['Comedy', 'Crime']","[4, 5]",1,1
+8.2,"['Animation', 'Adventure', 'Family', 'Fantasy']","[2, 1, 8, 9]",1,0
+8.2,"['Biography', 'Crime', 'Drama']","[3, 5, 7]",1,1
+8.3,"['Drama', 'War']","[7, 20]",1,1
+8.2,"['Drama', 'Romance']","[7, 16]",1,1
+8.3,"['Drama', 'Romance']","[7, 16]",1,0
+8.2,"['Action', 'Adventure', 'Comedy', 'Drama', 'War']","[0, 1, 4, 7, 20]",1,1
+8.2,"['Biography', 'Drama']","[3, 7]",1,0
+8.2,"['Biography', 'Drama']","[3, 7]",1,1
+8.2,"['Drama', 'Sport']","[7, 18]",1,1
+8.2,"['Biography', 'Comedy', 'Crime', 'Drama']","[3, 4, 5, 7]",1,1
+8.2,"['Action', 'Drama', 'Thriller']","[0, 7, 19]",1,0
+8.2,"['Drama', 'Mystery', 'War']","[7, 15, 20]",1,1
+8.2,['Drama'],[7],1,0
+8.3,['Drama'],[7],1,0
+8.2,"['Comedy', 'Crime']","[4, 5]",1,1
+8.2,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']","[0, 1, 9, 17]",1,1
+8.2,"['Drama', 'War']","[7, 20]",1,0
+8.2,"['Crime', 'Film-Noir', 'Romance', 'Thriller']","[5, 10, 16, 19]",1,0
+8.2,['Drama'],[7],1,1
+8.2,"['Drama', 'History', 'Romance', 'War']","[7, 11, 16, 20]",1,1
+9,"['Crime', 'Drama', 'Thriller']","[5, 7, 19]",1,0
+8.2,"['Drama', 'Film-Noir', 'Mystery', 'Romance', 'Thriller']","[7, 10, 15, 16, 19]",1,0
+8.2,['Drama'],[7],1,1
+8.2,"['Animation', 'Adventure', 'Comedy', 'Family']","[2, 1, 4, 8]",1,1
+8.2,"['Animation', 'Action', 'Adventure', 'Comedy', 'Family', 'Fantasy']","[2, 0, 1, 4, 8, 9]",1,0
+8.1,"['Drama', 'Mystery', 'Thriller']","[7, 15, 19]",1,1
+8.2,"['Horror', 'Mystery', 'Sci-Fi']","[12, 15, 17]",1,1
+8.1,"['Crime', 'Drama', 'Thriller']","[5, 7, 19]",1,0
+8.2,"['Adventure', 'Biography', 'Drama']","[1, 3, 7]",1,0
+8.2,"['Animation', 'Comedy', 'Drama']","[2, 4, 7]",1,1
+8.4,"['Adventure', 'Biography', 'Drama', 'History', 'War']","[1, 3, 7, 11, 20]",1,0
+8.1,"['Action', 'Thriller']","[0, 19]",1,1
+8.1,"['Crime', 'Drama', 'Mystery', 'Thriller']","[5, 7, 15, 19]",1,1
+8.3,"['Drama', 'War']","[7, 20]",1,0
+8.2,"['Comedy', 'Romance']","[4, 16]",1,0
+8.1,['Drama'],[7],1,1
+8.1,['Comedy'],[4],1,0
+8.1,"['Action', 'Biography', 'Drama', 'Sport']","[0, 3, 7, 18]",1,1
+8.2,['Drama'],[7],1,0
+8.1,"['Drama', 'History', 'War']","[7, 11, 20]",1,1
+8.1,"['Drama', 'War']","[7, 20]",1,0
+7.7,"['Adventure', 'Drama', 'Thriller']","[1, 7, 19]",1,0
+8.1,['Drama'],[7],1,1
+8.1,"['Biography', 'Crime', 'Drama', 'History']","[3, 5, 7, 11]",1,1
+8.1,"['Film-Noir', 'Mystery']","[10, 15]",1,1
+8.1,"['Mystery', 'Thriller']","[15, 19]",1,1
+8.1,"['Biography', 'Crime', 'Drama', 'Western']","[3, 5, 7, 21]",1,1
+8.1,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']","[0, 1, 17, 19]",1,1
+8.1,"['Adventure', 'Drama']","[1, 7]",1,0
+8.1,"['Biography', 'Drama', 'History']","[3, 7, 11]",1,1
+8.1,"['Crime', 'Drama']","[5, 7]",1,1
+8.1,"['Drama', 'Thriller']","[7, 19]",1,1
+8.1,"['Biography', 'Drama', 'History']","[3, 7, 11]",1,1
+8.1,"['Adventure', 'Comedy', 'Crime', 'Drama']","[1, 4, 5, 7]",1,0
+8.1,"['Comedy', 'Drama', 'Thriller']","[4, 7, 19]",1,1
+5.7,"['Action', 'Adventure', 'Drama']","[0, 1, 7]",1,1
+8.1,"['Drama', 'Thriller']","[7, 19]",1,0
+8.1,"['Drama', 'Sport']","[7, 18]",1,1
+8.1,"['Adventure', 'Family', 'Fantasy', 'Romance']","[1, 8, 9, 16]",1,1
+8.1,"['Animation', 'Adventure', 'Comedy', 'Crime', 'Family', 'Mystery']","[2, 1, 4, 5, 8, 15]",1,1
+8.1,"['Adventure', 'Sci-Fi', 'Thriller']","[1, 17, 19]",1,1
+8.1,"['Drama', 'Family']","[7, 8]",1,1
+8.1,"['Crime', 'Drama', 'Film-Noir', 'Thriller']","[5, 7, 10, 19]",1,0
+1.7,"['Crime', 'Mystery']","[5, 15]",0,1
+1.5,"['Comedy', 'Family']","[4, 8]",0,0
+1.9,"['Comedy', 'Family', 'Sci-Fi']","[4, 8, 17]",0,0
+1.9,"['Comedy', 'Crime', 'Fantasy', 'Music']","[4, 5, 9, 13]",0,0
+1.9,['Horror'],[12],0,0
+1.9,['Comedy'],[4],0,1
+1.8,"['Action', 'Comedy', 'Sci-Fi']","[0, 4, 17]",0,0
+1.8,"['Horror', 'Romance', 'Thriller']","[12, 16, 19]",0,0
+2.1,"['Animation', 'Family', 'Fantasy']","[2, 8, 9]",0,0
+2,"['Comedy', 'Romance', 'Sport']","[4, 16, 18]",0,0
+2.1,['Horror'],[12],0,1
+1.9,['Comedy'],[4],0,0
+2.1,"['Comedy', 'Musical', 'Romance']","[4, 14, 16]",0,0
+1.7,"['Animation', 'Action', 'Comedy', 'Family', 'Fantasy']","[2, 0, 4, 8, 9]",0,0
+1.9,"['Comedy', 'Romance']","[4, 16]",0,0
+2.2,"['Animation', 'Adventure', 'Family']","[2, 1, 8]",0,0
+1.8,['Comedy'],[4],0,0
+1.9,"['Action', 'Adventure', 'Comedy', 'Crime', 'Musical']","[0, 1, 4, 5, 14]",0,0
+2.2,"['Drama', 'Romance', 'Thriller']","[7, 16, 19]",0,0
+1.9,['Comedy'],[4],0,0
+1.8,"['Action', 'Adventure', 'Comedy']","[0, 1, 4]",0,0
+1.5,"['Action', 'Horror', 'Sci-Fi']","[0, 12, 17]",0,0
+1.7,"['Animation', 'Family', 'Fantasy']","[2, 8, 9]",0,0
+2.3,"['Horror', 'Mystery', 'Sci-Fi']","[12, 15, 17]",0,1
+5.3,"['Horror', 'Thriller']","[12, 19]",0,0
+1.2,"['Comedy', 'Horror']","[4, 12]",0,1
+1.7,"['Action', 'Comedy']","[0, 4]",0,0
+2,"['Comedy', 'Sport']","[4, 18]",0,0
+1.7,"['Action', 'Comedy', 'Horror']","[0, 4, 12]",0,0
+2.3,"['Comedy', 'Horror', 'Sci-Fi']","[4, 12, 17]",0,1
+2.1,"['Drama', 'Music', 'Romance']","[7, 13, 16]",0,1
+2.4,"['Horror', 'Sci-Fi']","[12, 17]",0,0
+2.2,"['Comedy', 'Family', 'Fantasy']","[4, 8, 9]",0,0
+2.1,"['Action', 'Sport']","[0, 18]",0,0
+1.8,['Comedy'],[4],0,0
+2,"['Action', 'Adventure', 'Romance', 'Sci-Fi']","[0, 1, 16, 17]",0,1
+2.6,"['Action', 'Adventure', 'Thriller']","[0, 1, 19]",0,1
+2.1,['Sci-Fi'],[17],0,0
+2.1,"['Action', 'Comedy', 'Adventure', 'Sci-Fi']","[0, 4, 1, 17]",0,0
+2.1,"['Comedy', 'Sport']","[4, 18]",0,0
+2,"['Horror', 'Sci-Fi']","[12, 17]",0,0
+2.3,"['Adventure', 'Comedy']","[1, 4]",0,0
+2.3,"['Horror', 'Sci-Fi']","[12, 17]",0,0
+2,"['Action', 'Crime', 'Drama']","[0, 5, 7]",0,0
+2.2,"['Action', 'Comedy', 'Sci-Fi']","[0, 4, 17]",0,0
+2.3,['Drama'],[7],0,0
+2,"['Comedy', 'Horror']","[4, 12]",0,0
+2.2,['Comedy'],[4],0,0
+2.4,"['Comedy', 'Crime', 'Romance']","[4, 5, 16]",0,0
+2.1,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']","[0, 1, 9, 17]",0,1
+2.1,['Drama'],[7],0,1
+2.9,['Comedy'],[4],0,0
+2.4,"['Action', 'Adventure', 'Sci-Fi']","[0, 1, 17]",0,0
+2.1,"['Horror', 'Sci-Fi']","[12, 17]",0,0
+2.1,"['Crime', 'Drama', 'Music', 'Romance']","[5, 7, 13, 16]",0,0
+1.9,['Sci-Fi'],[17],0,0
+2.2,['Horror'],[12],0,0
+2,"['Drama', 'History', 'Sport']","[7, 11, 18]",0,0
+2.5,"['Fantasy', 'Sci-Fi']","[9, 17]",0,0
+2,['Horror'],[12],0,0
+2.3,['Comedy'],[4],0,0
+2.9,"['Drama', 'Sport']","[7, 18]",0,1
+2.4,"['Action', 'Sci-Fi', 'Thriller']","[0, 17, 19]",0,0
+2.3,['Comedy'],[4],0,0
+2.5,"['Comedy', 'Crime', 'Family', 'Sci-Fi']","[4, 5, 8, 17]",0,0
+6.7,"['Adventure', 'Family', 'Fantasy', 'Musical']","[1, 8, 9, 14]",0,0
+2.1,['Horror'],[12],0,0
+2.2,"['Fantasy', 'Horror']","[9, 12]",0,0
+2.2,"['Action', 'Adventure', 'Fantasy']","[0, 1, 9]",0,0
+1.8,['Comedy'],[4],0,0
+6.9,"['Drama', 'Fantasy', 'Horror', 'Mystery', 'Thriller']","[7, 9, 12, 15, 19]",0,0
+2.5,"['Action', 'Comedy']","[0, 4]",0,1
+2.4,"['Family', 'Comedy']","[8, 4]",0,0
+2.5,"['Action', 'Comedy', 'Crime', 'Drama']","[0, 4, 5, 7]",0,1
+2.5,"['Adventure', 'Comedy', 'Family', 'Fantasy', 'Sci-Fi']","[1, 4, 8, 9, 17]",0,0
+2.2,"['Fantasy', 'Horror', 'Sci-Fi']","[9, 12, 17]",0,0
+2.3,"['Adventure', 'Drama', 'Horror', 'Mystery', 'Thriller']","[1, 7, 12, 15, 19]",0,1
+7.7,['Comedy'],[4],0,1
+2.3,['Romance'],[16],0,0
+2.6,['Comedy'],[4],0,1
+6.4,"['Comedy', 'Drama', 'Family', 'Fantasy']","[4, 7, 8, 9]",0,0
+2.4,['Comedy'],[4],0,0
+2.4,"['Crime', 'Action', 'Drama']","[5, 0, 7]",0,0
+7.6,"['Comedy', 'Drama']","[4, 7]",0,0
+2.4,['Horror'],[12],0,0
+2.2,"['Adventure', 'Horror', 'Sci-Fi']","[1, 12, 17]",0,0
+2.5,"['Horror', 'Sci-Fi']","[12, 17]",0,0
+2.7,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi', 'Thriller']","[0, 1, 9, 17, 19]",0,0
+2.7,['Comedy'],[4],0,0
+2.4,"['Action', 'Horror', 'Thriller']","[0, 12, 19]",0,0
+2.3,"['Crime', 'Drama']","[5, 7]",0,0
+5,"['Adventure', 'Drama', 'Horror', 'Thriller']","[1, 7, 12, 19]",0,1
+2.4,"['Action', 'Comedy', 'Family', 'Sci-Fi']","[0, 4, 8, 17]",0,1
+2.6,['Comedy'],[4],0,0
+2.3,['Sci-Fi'],[17],0,0
+2.7,"['Comedy', 'Fantasy', 'Horror']","[4, 9, 12]",0,0
+2.7,"['Comedy', 'Romance']","[4, 16]",0,0
+2.2,"['Horror', 'Romance']","[12, 16]",0,1
+2.3,"['Sci-Fi', 'Action']","[17, 0]",0,0
+2.6,"['Comedy', 'Crime', 'Drama', 'Music', 'Romance']","[4, 5, 7, 13, 16]",0,1
